@@ -11,7 +11,7 @@ bun run dev
 ## Install dependencies for solana wallet adapter
 
 ```sh
-bun add @solana/wallet-adapter-base @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-wallets @solana/web3.js
+bun add @solana/wallet-adapter-base @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-wallets @solana/web3.js@1
 ```
 
 ## Todos
